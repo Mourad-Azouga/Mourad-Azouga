@@ -1,6 +1,6 @@
 # 💫 About Me:
-Data analytics student in FSTT<br>Software engineering student in ALX Africa<br>Creating new things is what makes me excited<br>
-
+Data scientist @CommonShare
+Making life easier makes me happy.
 
 ## 🌐 Socials:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)
